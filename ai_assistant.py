@@ -3,7 +3,7 @@ from langchain import PromptTemplate, HuggingFaceHub, LLMChain
 import PyPDF2
 
 # Set up Hugging Face API token
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = 'YOUR_HUGGING_FACE_API_TOKEN'
 
 # Initialize Hugging Face model
 model = HuggingFaceHub(
