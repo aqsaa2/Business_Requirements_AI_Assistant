@@ -1,2 +1,2 @@
 # Business_Requirements_AI_Assistant
-An AI-powered assistant designed to extract text from PDF documents and facilitate dynamic conversations to refine business requirements.
+An AI-powered assistant designed to extract text from PDF documents and facilitate dynamic conversations to refine business requirements. This project uses Hugging Face's Mixtral model with LangChain for intelligent question generation, follow-up prompts, and the creation of user stories and business scenarios. The workflow includes extracting context from uploaded PDFs, generating relevant questions, gathering user inputs, and producing actionable user stories to streamline business analysis and requirements gathering processes.
